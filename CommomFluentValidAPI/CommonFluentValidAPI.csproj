@@ -13,10 +13,4 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Copyright>2026</Copyright>
   </PropertyGroup>
-  <ItemGroup>
-    <Content Include=ReadMe.txt>
-      <Pack>true</Pack>
-      <PackagePath>\ </PackagePath>
-    </Content>
-  </ItemGroup>
 </Project>

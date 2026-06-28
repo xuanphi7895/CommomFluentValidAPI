@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("2026")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+241ec260e38e017cbdf9b7a1e64e2fc3706394e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+49b014d30ea0c22ea43148e4c75175ce522c87e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Log File")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CommonFluentValidAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]
