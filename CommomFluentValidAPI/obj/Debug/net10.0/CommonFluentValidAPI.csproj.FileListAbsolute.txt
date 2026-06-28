@@ -1,0 +1,15 @@
+I:\API\NET\CommomFluentValidAPI\CommomFluentValidAPI\bin\Debug\net10.0\CommonFluentValidAPI.exe
+I:\API\NET\CommomFluentValidAPI\CommomFluentValidAPI\bin\Debug\net10.0\CommonFluentValidAPI.deps.json
+I:\API\NET\CommomFluentValidAPI\CommomFluentValidAPI\bin\Debug\net10.0\CommonFluentValidAPI.runtimeconfig.json
+I:\API\NET\CommomFluentValidAPI\CommomFluentValidAPI\bin\Debug\net10.0\CommonFluentValidAPI.dll
+I:\API\NET\CommomFluentValidAPI\CommomFluentValidAPI\bin\Debug\net10.0\CommonFluentValidAPI.pdb
+I:\API\NET\CommomFluentValidAPI\CommomFluentValidAPI\obj\Debug\net10.0\CommonFluentValidAPI.GeneratedMSBuildEditorConfig.editorconfig
+I:\API\NET\CommomFluentValidAPI\CommomFluentValidAPI\obj\Debug\net10.0\CommonFluentValidAPI.AssemblyInfoInputs.cache
+I:\API\NET\CommomFluentValidAPI\CommomFluentValidAPI\obj\Debug\net10.0\CommonFluentValidAPI.AssemblyInfo.cs
+I:\API\NET\CommomFluentValidAPI\CommomFluentValidAPI\obj\Debug\net10.0\CommonFluentValidAPI.csproj.CoreCompileInputs.cache
+I:\API\NET\CommomFluentValidAPI\CommomFluentValidAPI\obj\Debug\net10.0\CommonFluentValidAPI.sourcelink.json
+I:\API\NET\CommomFluentValidAPI\CommomFluentValidAPI\obj\Debug\net10.0\CommonFluentValidAPI.dll
+I:\API\NET\CommomFluentValidAPI\CommomFluentValidAPI\obj\Debug\net10.0\refint\CommonFluentValidAPI.dll
+I:\API\NET\CommomFluentValidAPI\CommomFluentValidAPI\obj\Debug\net10.0\CommonFluentValidAPI.pdb
+I:\API\NET\CommomFluentValidAPI\CommomFluentValidAPI\obj\Debug\net10.0\CommonFluentValidAPI.genruntimeconfig.cache
+I:\API\NET\CommomFluentValidAPI\CommomFluentValidAPI\obj\Debug\net10.0\ref\CommonFluentValidAPI.dll
