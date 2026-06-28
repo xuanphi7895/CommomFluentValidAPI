@@ -11,8 +11,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("TXP")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyCopyrightAttribute("2026")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+241ec260e38e017cbdf9b7a1e64e2fc3706394e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Log File")]

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CommonFluentValidAPI</id>
+    <version>1.0.1</version>
+    <authors>PhiTX</authors>
+    <readme>README.md</readme>
+    <description>Package Description</description>
+    <repository type="git" commit="241ec260e38e017cbdf9b7a1e64e2fc3706394e9" />
+    <dependencies>
+      <group targetFramework="net10.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="I:\API\NET\CommomFluentValidAPI\CommomFluentValidAPI\bin\Release\net10.0\CommonFluentValidAPI.runtimeconfig.json" target="lib\net10.0\CommonFluentValidAPI.runtimeconfig.json" />
+    <file src="I:\API\NET\CommomFluentValidAPI\CommomFluentValidAPI\bin\Release\net10.0\CommonFluentValidAPI.dll" target="lib\net10.0\CommonFluentValidAPI.dll" />
+  </files>
+</package>

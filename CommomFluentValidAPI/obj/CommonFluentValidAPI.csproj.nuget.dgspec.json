@@ -5,7 +5,7 @@
   },
   "projects": {
     "I:\\API\\NET\\CommomFluentValidAPI\\CommomFluentValidAPI\\CommonFluentValidAPI.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "restore": {
         "projectUniqueName": "I:\\API\\NET\\CommomFluentValidAPI\\CommomFluentValidAPI\\CommonFluentValidAPI.csproj",
         "projectName": "CommonFluentValidAPI",
