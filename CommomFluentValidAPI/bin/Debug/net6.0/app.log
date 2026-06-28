@@ -1,0 +1,26 @@
+[2025-05-27 21:08:11] [INFO] Startup complete
+[2025-05-27 21:08:11] [DEBUG] Fetching configuration
+[2025-05-27 21:08:11] [WARN] Missing optional config
+[2025-05-27 21:08:11] [ERROR] Database connection failed
+[2025-05-27 21:08:11] [FATAL] System shutdown due to fatal error
+[2025-05-27 21:15:07] [INFO] Startup complete
+[2025-05-27 21:15:07] [DEBUG] Fetching configuration
+[2025-05-27 21:15:07] [WARN] Missing optional config
+[2025-05-27 21:15:07] [ERROR] Database connection failed
+[2025-05-27 21:15:07] [FATAL] System shutdown due to fatal error
+[2025-05-27 21:24:00] [INFO] Startup complete
+[2025-05-27 21:24:00] [DEBUG] Fetching configuration
+[2025-05-27 21:24:00] [WARN] Missing optional config
+[2025-05-27 21:24:00] [ERROR] Database connection failed
+[2025-05-27 21:24:00] [FATAL] System shutdown due to fatal error
+[2025-05-27 21:24:07] [INFO] Startup complete
+[2025-05-27 21:25:18] [DEBUG] Fetching configuration
+[2025-05-27 21:25:21] [WARN] Missing optional config
+[2025-05-27 21:25:24] [ERROR] Database connection failed
+[2025-05-27 21:25:27] [FATAL] System shutdown due to fatal error
+[2025-05-27 21:26:06] [INFO] Startup complete
+[2025-05-27 21:26:09] [DEBUG] Fetching configuration
+[2025-05-27 21:26:09] [WARN] Missing optional config
+[2025-05-27 21:26:09] [ERROR] Database connection failed
+[2025-05-27 21:26:09] [FATAL] System shutdown due to fatal error
+[2025-05-27 21:26:09] [INFO] Test
